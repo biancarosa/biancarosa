@@ -17,7 +17,7 @@
 #### ... my background
 - 🏫 Technical degree in Data Processing (FAETEC/RJ) (2008-2011)
 - 🏫 Computer Science student (UERJ) (2011.............2020 - still working on my final project)
-- ⏳ 10+ yrs of XP in tech, mainly in web development and lately in infrastructure.
+- ⏳ ~10 yrs of XP in tech, mainly in web development and lately in infrastructure.
 
 #### ... and the technical content I produce
 - 🎤 I've talked around a couple of events throughout the years (mostly in Portuguese) and the slides can be found [here](https://biancarosa.com.br/talks/).
