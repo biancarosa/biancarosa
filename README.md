@@ -17,6 +17,6 @@ A full description can be found [here](https://biancarosa.com.br/about/).
 
 ### Technical Content
 
-- I've talked around a couple of events throughout the years (mostly in Portuguese) and the slides can be found [here](https://biancarosa.com.br/talks/)
-- I write [here](https://biancarosa.com.br) in English and [here](https://biancarosa.com.br/pt/)
+- I've talked around a couple of events throughout the years (mostly in Portuguese) and the slides can be found [here](https://biancarosa.com.br/talks/).
+- I write [here](https://biancarosa.com.br) in English and [here](https://biancarosa.com.br/pt/) in PT-BR.
 - I like tweeting, retweeting and reading technical stuff on [Twitter](https://twitter.com/__biancarosa). It's also my personal twitter - so you'll find my whole self there and I'm not sorry for that. Follow at your own risk.
