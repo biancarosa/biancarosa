@@ -5,6 +5,7 @@ This is a summary about:
 #### ... me
 - 😄 She/her.
 - 🌈 Hella gay.
+- 🐱 Cat lover, humble servant of three cats.
 - 😍 Python | Go | Containers | UNIX | Cloud Infrastructure.
 - 🎮 Xbox One player, currently addicted to NFS Heat, Minecraft Dungeons and Read Dead Redemption.
 - ✍️ I like writing.
