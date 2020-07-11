@@ -1,6 +1,6 @@
 ### Hi!
 
-Short summary about:
+This is a summary about:
 
 ## ... me
 - 😄 She/her.
