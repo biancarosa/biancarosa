@@ -6,7 +6,7 @@ Short summary about me:
 - 🌈 Hella gay
 - 🏷 Dev, DevOps, SRE
 - ⏳ 10+ yrs of XP in tech, mainly in web development and lately in infrastructure.
-- 💚 Tech Lead @ [@stone-payments](https://github.com/stone-payments) and commited to making an impact on our client's lifes through technology.
+- 💚 Tech Lead @ [@stone-payments](https://github.com/stone-payments) and commited to making an impact on our clients lifes through technology.
 - 🥰 Mentor at [mentoria](https://github.com/training-center/mentoria)
 - ✨ [PythOnRio](http://pythonrio.python.org.br/), [PyLadies](https://github.com/pyladies), [PyLadies Brasil](https://github.com/pyladies-brazil), [PyLadies Rio](https://github.com/pyladiesrio) member and community organizer.
 - 🌎 Rio de Janeiro, Brasil
