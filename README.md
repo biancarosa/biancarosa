@@ -23,7 +23,7 @@ This is a summary about:
 - 🏫 Computer Science student (UERJ) (2011.............2020 - still working on my final project)
 - ⏳ 10+ yrs of XP in tech, mainly in web development and lately in infrastructure.
 
-A full description  (and more technical) description can be found [here](https://biancarosa.com.br/about/). 
+A full (and more technical) description can be found [here](https://biancarosa.com.br/about/). 
 
 ### Technical Content
 
