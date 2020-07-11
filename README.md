@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi!
 
-<!--
-**biancarosa/biancarosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Short summary about me:
 
-Here are some ideas to get you started:
+- 😄 She/her
+- 🌈 Hella gay
+- 🏷 Dev, DevOps, SRE
+- ⏳ 10+ yrs of XP in tech, mainly in web development and lately in infrastructure.
+- 💚 Tech Lead @ [@stone-payments](https://github.com/stone-payments) and commited to making an impact on our client's lifes through technology.
+- 🥰 Mentor at [mentoria](https://github.com/training-center/mentoria)
+- ✨ [PythOnRio](http://pythonrio.python.org.br/), [PyLadies](https://github.com/pyladies), [PyLadies Brasil](https://github.com/pyladies-brazil), [PyLadies Rio](https://github.com/pyladiesrio) member and community organizer.
+- 🌎 Rio de Janeiro, Brasil
+- 🏫 Technical degree in Data Processing (FAETEC/RJ) (2008-2011)
+- 🏫 Computer Science student (UERJ) (2011.............2020 - still working on my final project)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A full description can be found [here](https://biancarosa.com.br/about/). 
+
+### Technical Content
+
+- I've talked around a couple of events throughout the years (mostly in Portuguese) and the slides can be found [here](https://biancarosa.com.br/talks/)
+- I write [here](https://biancarosa.com.br) in English and [here](https://biancarosa.com.br/pt/)
+- I like tweeting, retweeting and reading technical stuff on [Twitter](https://twitter.com/__biancarosa). It's also my personal twitter - so you'll find my whole self there and I'm not sorry for that. Follow at your own risk.
