@@ -4,7 +4,7 @@
 - 🐱 Cat lover, humble servant of three cats.
 - 😍 Python | Go | Containers | UNIX | Cloud Infrastructure.
 - 🎵 Music lover. Scrobbling on [last.fm](http://last.fm/user/biahll) since 2007.
-- 🎮 Xbox One player, currently addicted to NFS Heat, Minecraft Dungeons and Read Dead Redemption.
+- 🎮 Xbox One player, currently addicted to NFS Heat, Minecraft Dungeons and Red Dead Redemption.
 - ✍️ I like writing.
 - 📚 I like reading fiction and non-fiction [books](https://www.skoob.com.br/usuario/28503-bia).
 - 🌎 Rio de Janeiro, Brasil.
