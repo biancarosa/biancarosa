@@ -12,7 +12,7 @@
 #### ... what I do
 - 💚 Tech Lead of an SRE team at [@stone-payments](https://github.com/stone-payments) and commited to making an impact on our clients lives through technology.
 - 🥰 Mentor at [@training-center/mentoria](https://github.com/training-center/mentoria)
-- ✨ [@pythonrio](github.com/pythonrio), [@pyladies](https://github.com/pyladies), [@pyladies-brazil](https://github.com/pyladies-brazil), [@pyladiesrio](https://github.com/pyladiesrio) member and community organizer.
+- ✨ [@pythonrio](https://github.com/pythonrio), [@pyladies](https://github.com/pyladies), [@pyladies-brazil](https://github.com/pyladies-brazil), [@pyladiesrio](https://github.com/pyladiesrio) member and community organizer.
 
 #### ... my background
 - 🏫 Technical degree in Data Processing (FAETEC/RJ) (2008-2011)
