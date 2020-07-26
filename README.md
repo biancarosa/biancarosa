@@ -10,6 +10,7 @@
 - 🌎 Rio de Janeiro, Brasil.
 
 #### ... what I do
+- 💓 Open source.
 - 💚 Tech Lead of an SRE team at [@stone-payments](https://github.com/stone-payments) and commited to making an impact on our clients lives through technology.
 - 🥰 Mentor at [@training-center/mentoria](https://github.com/training-center/mentoria)
 - ✨ [@pythonrio](https://github.com/pythonrio), [@pyladies](https://github.com/pyladies), [@pyladies-brazil](https://github.com/pyladies-brazil), [@pyladiesrio](https://github.com/pyladiesrio) member and community organizer.
