@@ -12,7 +12,6 @@
 
 #### ... what I do
 - 💓 Open source.
-- 💻 Software Engineering at [Red Hat](https://redhat.com).
 - 💚 Back-end development, quality engineering and infrastructure.
 - ✨ [@pythonrio](https://github.com/pythonrio), [@pyladies](https://github.com/pyladies), [@pyladies-brazil](https://github.com/pyladies-brazil), [@pyladiesrio](https://github.com/pyladiesrio) member and community organizer.
 
