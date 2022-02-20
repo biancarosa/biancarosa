@@ -14,7 +14,3 @@
 - ✨ [@pythonrio](https://github.com/pythonrio), [@pyladies](https://github.com/pyladies), [@pyladies-brazil](https://github.com/pyladies-brazil), [@pyladiesrio](https://github.com/pyladiesrio) member and community organizer.
 - 💻 I write [here](https://biancarosa.com.br) in English and [here](https://biancarosa.com.br/pt/) in PT-BR.
 - 🤓 I like tweeting, retweeting and reading technical stuff on [Twitter](https://twitter.com/__biancarosa).
-
-### ... stats
-
-[![biancarosa's github stats](https://github-readme-stats.vercel.app/api?username=biancarosa&theme=dracula&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats) [![biancarosa's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@biancarosa&langs_count=8&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
