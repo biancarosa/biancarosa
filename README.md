@@ -1,4 +1,4 @@
-[![Profile Views Counter](https://komarev.com/ghpvc/?username=biancarosa&color=blueviolet)](https://github.com/antonkomarev/github-profile-views-counter) [![Last.FM Last Played Song](https://img.shields.io/endpoint?color=blueviolet&url=https://lastfm-last-played.biancarosa.com.br/biahll/latest-song?format=shields.io)](https://github.com/biancarosa/lastfm-last-played)
+[![Profile Views Counter](https://komarev.com/ghpvc/?username=biancarosa&color=blueviolet)](https://github.com/antonkomarev/github-profile-views-counter) [![Last.FM Last Played Song](https://img.shields.io/endpoint?color=blueviolet&url=https://lastfm-last-played.biancarosa.com.br/biancarosa__/latest-song?format=shields.io)](https://github.com/biancarosa/lastfm-last-played)
 
 #### ... me
 - 😄 She/her.
