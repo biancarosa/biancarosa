@@ -10,7 +10,7 @@
 
 #### ... what I do
 - 💓 Open source.
-- 💚 Back-end development, quality engineering and infrastructure.
+- 💚 Back-end development, finops and infrastructure.
 - ✨ [@pythonrio](https://github.com/pythonrio), [@pyladies](https://github.com/pyladies), [@pyladies-brazil](https://github.com/pyladies-brazil), [@pyladiesrio](https://github.com/pyladiesrio) member and community organizer.
 - 💻 I write [here](https://biancarosa.com.br) in English and [here](https://biancarosa.com.br/pt/) in PT-BR.
 - 🤓 I like tweeting, retweeting and reading technical stuff on [Twitter](https://twitter.com/__biancarosa).
