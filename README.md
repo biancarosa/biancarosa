@@ -6,7 +6,7 @@
 - 🐱 Cat lover, humble servant of three cats.
 - 🎵 Music lover. Scrobbling on [last.fm](http://last.fm/user/biahll) since 2007.
 - 😍 Python | Go | Containers | UNIX | Cloud Infrastructure.
-- 🌎 Rio de Janeiro, Brasil.
+- 🌎 Brazilian (from Rio de Janeiro) living in Buenos Aires, AR.
 
 #### ... what I do
 - 💓 Open source.
